@@ -12,7 +12,7 @@ Sling TV is one of the best streaming services since it lets you watch live TV a
    :alt: My Project Logo
    :width: 350px
    :align: center
-   :target: https://activation-key.net/
+   :target: https://tv.activation-key.net/
 
 This post will show you how to activate Sling TV, list the devices that work with it, give you some common troubleshooting processes, and give you some advice for making your experience as smooth as possible.
 
